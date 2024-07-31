@@ -9,61 +9,64 @@
 
 ![See the bot in action](https://user-images.githubusercontent.com/117955242/218443550-f28fed1b-b945-4061-993e-0f91ddd95fd3.jpeg)
 
-
-#BANK MODES 🏦
-  Chase
-  Capital One
-  Bank Of America
-  Wells Fargos
-  VISA VBV 💳
-  Master Card MSC 💳
-  More...
-
-#EMAIL MODES 📧
-  Yahoo
-  Gmail
-  AOL
-  More...
-
-#FINANCIAL SERVICE MODES 📧
-  Zelle Mode 🏦
-  Venmo Mode 💰
-  Paypal OTP Mode 💰
-  Cashapp Mode 💸
-  GooglePay Mode 💰
-  More...
-  
-#STORES MODES 🛍
-  Amazon
-  Alibaba
-  Walmart
-  More...
- 
-#SOCAIL MEDIA MODES🛍
-  FaceBook
-  Twitter
-  Instagram
-  Tiktok
-  More...
-  
-#CRYPTO MODES 💰
-  Binance
-  Blockchain
-  Coinbase
-  Paxful
-  More...
-#CLOUD MODES⛅️
-  iCloud
-  Onedrive
-  More...
-  
-#ApplePay Mode 🍏
-#PGP Mode 📱⚡️
-#PhishText 🆕🔥
-#HitList ✅🔥
-#Spoof Panel 🆕🔥
-#Accept/Deny ✅📱🔥
-#Spoof Caller ID”🤡 🔥
-#SETUP A CALL ⚙️ 🔥
-#User Dashboard 📱🔥
-#Refrence Code on each call 🆕🔥
+    New Coder089 Telegram B0t V7
+    
+    FEATURES
+    
+    #BANK MODES 🏦
+      Chase
+      Capital One
+      Bank Of America
+      Wells Fargos
+      VISA VBV 💳
+      Master Card MSC 💳
+      More...
+    
+    #EMAIL MODES 📧
+      Yahoo
+      Gmail
+      AOL
+      More...
+    
+    #FINANCIAL SERVICE MODES 📧
+      Zelle Mode 🏦
+      Venmo Mode 💰
+      Paypal OTP Mode 💰
+      Cashapp Mode 💸
+      GooglePay Mode 💰
+      More...
+    
+    #STORES MODES 🛍
+      Amazon
+      Alibaba
+      Walmart
+      More...
+     
+    #SOCAIL MEDIA MODES
+      FaceBook
+      Twitter
+      Instagram
+      Tiktok
+      More...
+    
+    #CRYPTO MODES 💰
+      Binance
+      Blockchain
+      Coinbase
+      Paxful
+      More...
+    #CLOUD MODES⛅️
+      iCloud
+      Onedrive
+      More...
+    
+    #ApplePay Mode 🍏
+    #PGP Mode 📱⚡️
+    #PhishText 🆕🔥
+    #HitList ✅🔥
+    #Spoof Panel 🆕🔥
+    #Accept/Deny ✅📱🔥
+    #Spoof Caller ID”🤡 🔥
+    #SETUP A CALL ⚙️ 🔥
+    #User Dashboard 📱🔥
+    #Refrence Code on each call 🆕🔥
