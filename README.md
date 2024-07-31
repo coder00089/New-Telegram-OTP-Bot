@@ -70,3 +70,16 @@
     #SETUP A CALL ⚙️ 🔥
     #User Dashboard 📱🔥
     #Refrence Code on each call 🆕🔥
+
+
+# For Customization or Private OTP Bots Contact me on my new Chennel and Server
+
+    Discord Server:  https://discord.gg/CVgscsvRRx
+    Telegram Channel https://t.me/otpbotc
+    DM Discord: Coder089#8305
+    DM Telegram: @Coder00089
+Discord Server: https://discord.gg/CVgscsvRRx
+
+NEW Telegram Channel https://t.me/otpbotc
+
+Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
