@@ -81,5 +81,3 @@ Discord Server: https://discord.gg/CVgscsvRRx
 Vouches Group: https://t.me/+NRi-i3Vd5dc2MDdk
 NEW Telegram Channel https://t.me/+1IxDGYXtndk3ZDY8
 
-Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
-Old Telegram Channel https://t.me/otpbotc
