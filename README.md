@@ -74,6 +74,7 @@
 
     Discord Server:  https://discord.gg/CVgscsvRRx
     Telegram Channel: https://t.me/+FMegMiNVn-I2MzY0
+    Vouches Channel: https://t.me/+FSCXJ9Bf8X1jNGY8
     DM Discord: Coder089#8305
     DM Telegram: @Coder000089
 Discord Server: https://discord.gg/CVgscsvRRx
