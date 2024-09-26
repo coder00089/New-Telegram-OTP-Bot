@@ -3,7 +3,7 @@
     Teleram OTP Bot, working with any company or service name.
     New OTP Bot, working with any company or service name to fetch otp code. 
     
-    Telegram Bot https://t.me/coder00089bot
+    Telegram Bot https://t.me/coder000089bot
 
 ![See the bot in action](https://user-images.githubusercontent.com/117955242/218443550-f28fed1b-b945-4061-993e-0f91ddd95fd3.jpeg)
 
@@ -75,7 +75,7 @@
     Discord Server:  https://discord.gg/CVgscsvRRx
     Telegram Channel: https://t.me/+FMegMiNVn-I2MzY0
     DM Discord: Coder089#8305
-    DM Telegram: @Coder00089
+    DM Telegram: @Coder000089
 Discord Server: https://discord.gg/CVgscsvRRx
 
 Vouches Group: https://t.me/+NRi-i3Vd5dc2MDdk
