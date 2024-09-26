@@ -73,11 +73,11 @@
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
     Discord Server:  https://discord.gg/CVgscsvRRx
-    Telegram Channel: https://t.me/+FMegMiNVn-I2MzY0
+    Telegram Channel: https://t.me/+FSCXJ9Bf8X1jNGY8
     DM Discord: Coder089#8305
     DM Telegram: @Coder000089
 Discord Server: https://discord.gg/CVgscsvRRx
 
-Vouches Group: https://t.me/+FSCXJ9Bf8X1jNG
+Vouches Group: https://t.me/+FSCXJ9Bf8X1jNGY8
 NEW Telegram Channel: https://t.me/+sGKMj323qPI5MWNk
 
