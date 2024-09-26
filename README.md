@@ -74,11 +74,10 @@
 
     Discord Server:  https://discord.gg/CVgscsvRRx
     Telegram Channel: https://t.me/+FMegMiNVn-I2MzY0
-    Vouches Channel: https://t.me/+FSCXJ9Bf8X1jNGY8
     DM Discord: Coder089#8305
     DM Telegram: @Coder000089
 Discord Server: https://discord.gg/CVgscsvRRx
 
-Vouches Group: https://t.me/+NRi-i3Vd5dc2MDdk
-NEW Telegram Channel: https://t.me/+FMegMiNVn-I2MzY0
+Vouches Group: https://t.me/+FSCXJ9Bf8X1jNG
+NEW Telegram Channel: https://t.me/+sGKMj323qPI5MWNk
 
