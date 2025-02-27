@@ -1,7 +1,7 @@
 # New Version Of My Telegram OTP Bot
   
     Teleram OTP Bot, working with any company or service name.
-    New OTP Bot, working with any company or service name to fetch otp code. 
+    New OTP Bot, working with any company or service name to fetch otp code.
     
     Telegram Bot https://t.me/coder000089bot
 
